@@ -1,0 +1,8 @@
+{
+  "name": "email-tool-auth",
+  "version": "1.0.0",
+  "authorizedTokens": [
+    "lanzdev",
+    "anothertoken456"
+  ]
+}
